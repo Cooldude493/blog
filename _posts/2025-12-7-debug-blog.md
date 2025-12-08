@@ -4,7 +4,7 @@ Welcome back
 
 Now, let's get a little professional. Debugging is the act of testing your code to check for any errors that might pop up. In this blog, I'll be going over four blocks of code that I have recently debugged, and walk you through the thought process on how I successfully did so. The first, most important step of debugging is to know what exactly the code is supposed to do. In doing so, you will have an easier time finding out why the code isn't working. Then we would have to find what error is making our code output wrong.
 
-Example 1
+ ## Example 1
 ```python
 text = "Hello, world, my name is"
 count = 0
@@ -38,7 +38,7 @@ for char in text:
 print(count)
 ```
 
-Example 2 
+## Example 2 
 ```python
 print("give me a number")
 n = input()
@@ -65,7 +65,7 @@ for num in range(1, n):
     else:
         print(num, "is odd.")
 ```
-Example 3 
+## Example 3 
 ```python
 num = int(input("Enter an integer: "))
 
@@ -82,9 +82,9 @@ else:
 ```
 
 This code snippet is supposed to calculate the factorial of the imputed number, but when the code is run, there is another Type error within the terminal on line 11, narrowing our search for the error to the last print statement, and once again going into debug mode, we can see that when trying to add both the variables num and result to the string they dont get formatted correctly. To fix this issue, we would need to put the for format function in front of the quotes in the string and put both variables in these {} brackets. Looking something like this:
-
+```python
 print(f"Factorial of {num} is {result}")
-
+```
 However, still, when we try to find the factorial of a number, for example, 5, the output value isn't 120, it's only 24. When looking at the code in debugger mode and examining the for loop, we see that when the loop reaches the value of 5, it just stops running and prints the output, so we would have to change the range to be range(1, num):.
 
 Here is the corrected code in full
@@ -103,7 +103,7 @@ else:
   print(f"Factorial of {num} is {result}")
 ```
 
-Example 4 
+## Example 4 
 ```python
 attempts = 0
 correct_password = "secret"
