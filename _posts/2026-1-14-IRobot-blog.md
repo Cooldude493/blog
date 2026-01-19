@@ -3,25 +3,23 @@ Hello Again
 This blog post will be slightly different from the last, as I will be going over the film I, Robot, and discussing how the movie portrays Artificial Intelligence (AI) and the moral questions that it raises for the viewer about the advancement of technology, but first, we have to go over
 Asimov's Three Laws of Robotics (What the film is heavily based on) and a brief synopsis for those who haven't seen the movie but still want to interact with the blog. 
 
-<h2>I, Robot: An Electrifying Experience<h2>
+<h2>I, Robot: An Electrifying Experience</h2>
 
 In the opening scene of I, Robot, we see across the screen Asimov's Three Laws of Robotics, which state:
 
-<ol>
-1). A robot may not injure a human being or, through inaction, allow a human being to come to harm.
+1. A robot may not injure a human being or, through inaction, allow a human being to come to harm.
 
-2). A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
+2. A robot must obey orders given to it by human beings except where such orders would conflict with the First Law.
 
-3). A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
-</ol>
+3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
 The story follows Detective Del Spooner, a man who doesn't trust robots due to his life being saved by a robot, calculating that he would have a higher chance of living compared to a girl who was drowning next to him. Spooner is then called upon to investigate a suicide committed by Dr. Alfred Lanning. After some time on the case, he discovered a robot by the name of Sonny, who not only was connected to the doctor's death but also had information that led Spooner to believe that Dr. Lanning was killed and didn't commit suicide, finding out later the true culprit and AI system by the name of VIKI, who believed that to save humanity robot will have to do everything in their power to protect them even if that ment harming those they have sworn to protect but in the end allong side the help of Sonny and Dr. Susan Calvin Detective Spooner was able to permanently disable VIKI and stop her from dominating the human race.
 
-<h2>Why This Is Relevant Today<h2>
+<h2>Why This Is Relevant Today</h2>
 
 Years ago, when the notion of having an AI assistant to help your everyday life was something of science fiction, being portrayed as a simple technological trope or cautionary tale that once the human race invents too much, those inventions will only turn against us and replace us and as technology continues to advance every day to the point where you can't go online anymore and not see some AI app or tool being promoted to you media that consists of these cautionary tales become evermore present in our daily lives making us ponder if we are going to far in our advancements and should we stop trying to advance our technology and use what we have now to better the world. These forms of media and storytelling provide thought-provoking questions about the human race's ambition and whether we could even stop while were ahead.
 
-<h2>AI In Film<h2>
+<h2>AI In Film</h2>
 
 <img src="/blog/images/save.jpg" alt="Spooner's Flashback">
 <br>
@@ -43,6 +41,6 @@ Around the end of the film, Detective Spooner, Dr. Susan Calvin, and Sonny confr
 
 <hr>
 
-<h2>Final Thoughts <h2>
+<h2>Final Thoughts </h2>
 
 Throughout the film, the cautionary tale of AI or Robots overthrowing the human race is ever-present, and although, as of now, AI hasn't progressed to the point in which it would gain sentience, most commonly referred to as AGI (Artificial General Intelligence), people still abuse AI tools to the point of psychosis, becoming also reliant on the tool just to get past in the day the film I, Robot allows the viewer to question wheretehr or not this constant progression in bettering AI is taxing on the human race and if we as a species should slow down its production to better regulate the system.
